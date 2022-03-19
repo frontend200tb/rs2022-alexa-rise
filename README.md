@@ -1,9 +1,7 @@
 # alexa-rise
 
-2022 RS School Javascript Frontend Developer Stage0 
+2022 Иван Каширин - Alexa Rise Задание с курса RS School Javascript Frontend Stage0 
 
-Project Portfolio Alexa Rise
+HTML, CSS, JavaScript
 
 https://frontend200tb.github.io/alexa-rise/
-
-Ivan Kashirin
