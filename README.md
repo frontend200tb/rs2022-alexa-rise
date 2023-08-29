@@ -4,4 +4,4 @@
 
 HTML, CSS, JavaScript
 
-https://frontend200tb.github.io/alexa-rise/
+https://frontend200tb.github.io/rs2022-alexa-rise/
